@@ -1,0 +1,27 @@
+final project - Object Oriented Programming
+
+
+
+Dor Ferenc 316279942 (Keren's group)
+
+Yarden Mizrahi 209521293 (Victor's groups)
+
+
+
+Known Issues: 
+
+1) Name can only be English letters 
+
+2) Can't click next withour clicking "Check" (to make sure user data is valid)
+
+3) We understood that if an employee chose "NORMAL" (Start hour = 08:00) and he got that then all 9 hours are calculated with +20% efficiency
+
+4) Birthdate picker is automaticaly on 2/2/2000 just for convinience 
+
+5) There is extra bits of code (because we did not get anwsers for our questions we just made it possibale in all kind of ways)
+
+6) In case of a blank load the program will make you first enter details before you can use some of it.
+
+7) Salary is a random factor... The purpose of the program is to calculate efficiency
+
+
