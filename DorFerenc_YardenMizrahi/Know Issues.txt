@@ -2,11 +2,6 @@ final project - Object Oriented Programming
 
 
 
-Dor Ferenc 316279942 (Keren's group)
-
-Yarden Mizrahi 209521293 (Victor's groups)
-
-
 
 Known Issues: 
 
